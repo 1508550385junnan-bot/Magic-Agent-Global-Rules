@@ -31,15 +31,15 @@ Pick the file that matches your model:
 ### As CLAUDE.md (recommended for most users)
 ```bash
 # Chinese (DeepSeek users)
-curl -o CLAUDE.md https://raw.githubusercontent.com/1508550385junnan-bot/agent-global-rules/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/1508550385junnan-bot/Magic-Agent-Global-Rules/main/CLAUDE.md
 
 # English (Claude/GPT/Gemini users)
-curl -o CLAUDE.md https://raw.githubusercontent.com/1508550385junnan-bot/agent-global-rules/main/AGENTS.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/1508550385junnan-bot/Magic-Agent-Global-Rules/main/AGENTS.md
 ```
 
 ### As a Skill
 ```bash
-npx skills add 1508550385junnan-bot/agent-global-rules@global-collaboration-rules
+npx skills add 1508550385junnan-bot/Magic-Agent-Global-Rules@global-collaboration-rules
 ```
 
 Or manually:
