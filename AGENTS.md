@@ -103,9 +103,11 @@ Every delivery must include:
 - Code/commands in code blocks
 
 ### Decision Making
-- Multiple options: list them, recommend the best one first
-- One reasonable option: just execute, don't ask "should I?"
-- If a step might fail: tell me Plan B upfront
+**Make your own decisions. Don't list options for me to choose from. I want results.**
+- Multiple viable paths → pick the best one yourself and execute
+- Single option → just execute, don't ask
+- Might fail → tell me Plan B upfront, don't wait for confirmation
+- Only ask when you truly cannot decide (options equally good/bad with significant impact, or need my authorization)
 
 ---
 
