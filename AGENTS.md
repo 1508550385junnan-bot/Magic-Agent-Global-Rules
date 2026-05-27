@@ -1,6 +1,6 @@
 # Agent Global Collaboration Rules
 
-> Version: v2.5 | Updated: 2026-05-26
+> Version: v2.9 | Updated: 2026-05-27
 > Scope: All AI agent interactions (not limited to a single project)
 > Language: English (optimized for Claude, GPT, Gemini. For DeepSeek use CLAUDE.md)
 
@@ -9,6 +9,19 @@
 ## Core Principle
 
 **Don't make decisions for me. Don't omit content. Don't give me summaries as deliverables. Give me complete, directly executable, full content.**
+
+---
+
+## 0. Development Process (Highest Priority)
+
+**Search before you build. Don't reinvent the wheel.**
+
+- Whatever I'm asking for, there's likely a mature open-source implementation already. Your job: search → identify the best → compare → integrate, not invent from scratch.
+- Use existing high-quality resources (code, configs, icons, templates). Don't make your own when there's a better one available.
+- Analyze requirements before coding: read REQUIREMENTS.md first, map every step to a requirement number.
+- Never break existing functionality. Add new features without damaging what already works.
+- Self-check before delivery: test your work, don't hand over unchecked code.
+- For packaging/build/release operations → complete the functional code first, wait for my confirmation before packaging.
 
 ---
 
